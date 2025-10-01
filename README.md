@@ -138,7 +138,7 @@ These represent the "gold standard" - official demonstrations of Sora's capabili
 
 ### Viral Community Prompts
 
-Curated from high-engagement X posts, showcasing Sora 2's diverse capabilities from anime to advertising, meta-humor to motivational content.
+Curated collection of 30+ viral prompts from high-engagement X posts, showcasing Sora 2's diverse capabilities across anime, advertising, meta-humor, TV parodies, and creative experiments.
 
 <table>
 <thead>
@@ -305,6 +305,166 @@ Curated from high-engagement X posts, showcasing Sora 2's diverse capabilities f
 <td>Whimsical unicorn dance; nostalgic and colorful, fulfilling a repeated prompt challenge</td>
 <td align="center">
   <a href="https://x.com/drewdil/status/1973238424627978451">
+    <img src="https://img.shields.io/badge/▶️_Watch-X/Twitter-1DA1F2?style=for-the-badge&logo=x" alt="Watch on X"/>
+  </a>
+</td>
+</tr>
+
+<tr>
+<td><strong>"lmao sora 2 is funny af"</strong></td>
+<td>Unspecified funny clip shared for humor; likely absurd scenario showcasing Sora 2's entertainment value</td>
+<td align="center">
+  <a href="https://x.com/AGJimmi/status/1973141639347708003">
+    <img src="https://img.shields.io/badge/▶️_Watch-X/Twitter-1DA1F2?style=for-the-badge&logo=x" alt="Watch on X"/>
+  </a>
+</td>
+</tr>
+
+<tr>
+<td><strong>"@sama getting angry over a D&D game. he's being very nerdy about some specific rule of the game"</strong></td>
+<td>Sam Altman in a heated Dungeons & Dragons session; captures nerdy frustration with detailed expressions and tabletop elements</td>
+<td align="center">
+  <a href="https://x.com/WesRothMoney/status/1973125953871397332">
+    <img src="https://img.shields.io/badge/▶️_Watch-X/Twitter-1DA1F2?style=for-the-badge&logo=x" alt="Watch on X"/>
+  </a>
+</td>
+</tr>
+
+<tr>
+<td><strong>"Please use the characters in the image to generate a Japanese anime trailer in the style of Ghost in the Shell (Production I.G Studio)"</strong></td>
+<td>Ghost in the Shell-style trailer; anime aesthetic with cyberpunk elements and character references from uploaded images</td>
+<td align="center">
+  <a href="https://x.com/chenshaoju/status/1973285480071569711">
+    <img src="https://img.shields.io/badge/▶️_Watch-X/Twitter-1DA1F2?style=for-the-badge&logo=x" alt="Watch on X"/>
+  </a>
+</td>
+</tr>
+
+<tr>
+<td><strong>"Crazy sora 2. Is this real or AI??"</strong></td>
+<td>Blurry, ambiguous scene questioning reality; plays on deepfake fears and AI authenticity with Sam Altman reference</td>
+<td align="center">
+  <a href="https://x.com/iamskorer/status/1973254528133898578">
+    <img src="https://img.shields.io/badge/▶️_Watch-X/Twitter-1DA1F2?style=for-the-badge&logo=x" alt="Watch on X"/>
+  </a>
+</td>
+</tr>
+
+<tr>
+<td><strong>"A cheerful and charming young Japanese idol live-streams a gaming session, dressed in a stylish and comfortable camisole..."</strong></td>
+<td>Japanese idol gaming stream with ultra-realistic details; features lip-sync, interactive elements, cinematic lighting, and RGB gaming setup</td>
+<td align="center">
+  <a href="https://x.com/iX00AI/status/1973360047301468493">
+    <img src="https://img.shields.io/badge/▶️_Watch-X/Twitter-1DA1F2?style=for-the-badge&logo=x" alt="Watch on X"/>
+  </a>
+</td>
+</tr>
+
+<tr>
+<td><strong>"a pirate girl materializing laying on the red bed and saying: 'Poof! Hello guys, how do I look? I was generated in Sora 2...'"</strong></td>
+<td>Pirate girl appearance with synchronized dialogue; combines materialization effects, character speech, and pirate flair with muscle flexing</td>
+<td align="center">
+  <a href="https://x.com/Jakub_AI_Art/status/1973127879006494968">
+    <img src="https://img.shields.io/badge/▶️_Watch-X/Twitter-1DA1F2?style=for-the-badge&logo=x" alt="Watch on X"/>
+  </a>
+</td>
+</tr>
+
+<tr>
+<td><strong>"Advertisement for a gourmet cheese wheel, slow-motion rolls down alpine hills pursued by eager goats in chef hats..."</strong></td>
+<td>Humorous cheese advertisement with slow-motion chase scene; playful and absurd concept with triumphant picnic finale</td>
+<td align="center">
+  <a href="https://x.com/Gdgtify/status/1973314782989263039">
+    <img src="https://img.shields.io/badge/▶️_Watch-X/Twitter-1DA1F2?style=for-the-badge&logo=x" alt="Watch on X"/>
+  </a>
+</td>
+</tr>
+
+<tr>
+<td><strong>"skateboarder does a kickflip"</strong></td>
+<td>Simple skateboarding trick; tests physics accuracy with motion capture-like precision in athletic movement</td>
+<td align="center">
+  <a href="https://x.com/name__0_i_0/status/1973213801924403315">
+    <img src="https://img.shields.io/badge/▶️_Watch-X/Twitter-1DA1F2?style=for-the-badge&logo=x" alt="Watch on X"/>
+  </a>
+</td>
+</tr>
+
+<tr>
+<td><strong>"simulate me trying to gain access to Sora2 but failing"</strong></td>
+<td>Meta simulation of access denial; ironic commentary on invite-only rollout and user frustration</td>
+<td align="center">
+  <a href="https://x.com/LordSecretive/status/1973209293601251476">
+    <img src="https://img.shields.io/badge/▶️_Watch-X/Twitter-1DA1F2?style=for-the-badge&logo=x" alt="Watch on X"/>
+  </a>
+</td>
+</tr>
+
+<tr>
+<td><strong>"Two students whisper nervously while cheating during an exam"</strong></td>
+<td>Classroom cheating scene; captures subtle tension and realistic student interactions with nervous body language</td>
+<td align="center">
+  <a href="https://x.com/airina_xyz/status/1973351766780682440">
+    <img src="https://img.shields.io/badge/▶️_Watch-X/Twitter-1DA1F2?style=for-the-badge&logo=x" alt="Watch on X"/>
+  </a>
+</td>
+</tr>
+
+<tr>
+<td><strong>"Un viajero del tiempo intentando evitar la caída de la bomba de Hiroshima"</strong></td>
+<td>Time traveler attempting to prevent Hiroshima bombing; dramatic historical reimagining with tension and moral weight</td>
+<td align="center">
+  <a href="https://x.com/Leroysmer/status/1973341723733721550">
+    <img src="https://img.shields.io/badge/▶️_Watch-X/Twitter-1DA1F2?style=for-the-badge&logo=x" alt="Watch on X"/>
+  </a>
+</td>
+</tr>
+
+<tr>
+<td><strong>"A short hair cute influencer is trying to sell to the camera a smooth cylindrical object..."</strong></td>
+<td>Influencer product pitch with subtle humor; iPhone-style recording with polished minimal design aesthetic</td>
+<td align="center">
+  <a href="https://x.com/name__0_i_0/status/1973368893080215888">
+    <img src="https://img.shields.io/badge/▶️_Watch-X/Twitter-1DA1F2?style=for-the-badge&logo=x" alt="Watch on X"/>
+  </a>
+</td>
+</tr>
+
+<tr>
+<td><strong>"I asked SORA 2 to create a 90s Toy Ad of Epstein's Island"</strong></td>
+<td>Retro 90s-style toy advertisement parody; surreal and controversial concept with upbeat narration and toy-like visuals</td>
+<td align="center">
+  <a href="https://x.com/Solopopsss/status/1973363399234052232">
+    <img src="https://img.shields.io/badge/▶️_Watch-X/Twitter-1DA1F2?style=for-the-badge&logo=x" alt="Watch on X"/>
+  </a>
+</td>
+</tr>
+
+<tr>
+<td><strong>"star in a musical using American Revolution style. Topic of rap is 'The Innovator's Dilemma'"</strong></td>
+<td>Historical rap musical with cameo avatar; blends American Revolution aesthetics with modern rap about business innovation</td>
+<td align="center">
+  <a href="https://x.com/firstadopter/status/1973126057227383219">
+    <img src="https://img.shields.io/badge/▶️_Watch-X/Twitter-1DA1F2?style=for-the-badge&logo=x" alt="Watch on X"/>
+  </a>
+</td>
+</tr>
+
+<tr>
+<td><strong>"the gang discovers Waymo"</strong></td>
+<td>South Park episode about Waymo self-driving cars; generates full episode clip with dialogue faithful to the show's style</td>
+<td align="center">
+  <a href="https://x.com/venturetwins/status/1973158674899280077">
+    <img src="https://img.shields.io/badge/▶️_Watch-X/Twitter-1DA1F2?style=for-the-badge&logo=x" alt="Watch on X"/>
+  </a>
+</td>
+</tr>
+
+<tr>
+<td><strong>"Love Island reveal scene. A young woman sits on a plush villa sofa during 'Movie Night'..."</strong></td>
+<td>Reality TV parody with Ronald McDonald and Wendy; surreal Love Island scene mixing brand mascots with dramatic reactions</td>
+<td align="center">
+  <a href="https://x.com/Ror_Fly/status/1973220869318013399">
     <img src="https://img.shields.io/badge/▶️_Watch-X/Twitter-1DA1F2?style=for-the-badge&logo=x" alt="Watch on X"/>
   </a>
 </td>
