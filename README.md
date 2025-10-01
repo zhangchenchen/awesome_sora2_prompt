@@ -138,7 +138,7 @@ These represent the "gold standard" - official demonstrations of Sora's capabili
 
 ### Viral Community Prompts
 
-Curated collection of 30+ viral prompts from high-engagement X posts, showcasing Sora 2's diverse capabilities across anime, advertising, meta-humor, TV parodies, and creative experiments.
+Curated from high-engagement X posts, showcasing Sora 2's diverse capabilities from anime to advertising, meta-humor to motivational content.
 
 <table>
 <thead>
