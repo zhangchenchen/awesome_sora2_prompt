@@ -44,7 +44,7 @@ We welcome the following types of contributions:
 
 1. **Fork the Repository**
    ```bash
-   git clone https://github.com/yourusername/awesome-sora2-prompt.git
+   git clone https://github.com/zhangchenchen/awesome-sora2-prompt.git
    cd awesome-sora2-prompt
    git checkout -b add-new-prompt
    ```
@@ -198,8 +198,8 @@ Contributors will be recognized in several ways:
 
 ## 📧 Questions?
 
-- **General Questions**: Open a [Discussion](https://github.com/yourusername/awesome-sora2-prompt/discussions)
-- **Bug Reports**: Open an [Issue](https://github.com/yourusername/awesome-sora2-prompt/issues)
+- **General Questions**: Open a [Discussion](https://github.com/zhangchenchen/awesome-sora2-prompt/discussions)
+- **Bug Reports**: Open an [Issue](https://github.com/zhangchenchen/awesome-sora2-prompt/issues)
 - **Quick Questions**: Comment on relevant PR or Issue
 
 ## 🤝 Code of Conduct

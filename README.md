@@ -55,13 +55,84 @@ Sora isn't just generating videos—it's simulating miniature, self-consistent w
 
 These represent the "gold standard" - official demonstrations of Sora's capabilities:
 
-| Name | Prompt Preview | Video Link | Analysis |
-|------|---------------|------------|----------|
-| **Tokyo Walk** | "A stylish woman walks down a Tokyo street filled with warm glowing neon..." | [View Video](https://cdn.openai.com/sora/videos/tokyo-walk.mp4) | [Full Analysis](./prompts/official-prompts.md#tokyo-walk) |
-| **Wooly Mammoths** | "Several giant wooly mammoths approach treading through a snowy meadow..." | [View Video](https://cdn.openai.com/sora/videos/wooly-mammoth.mp4) | [Full Analysis](./prompts/official-prompts.md#wooly-mammoths) |
-| **Mitten Astronaut** | "A movie trailer featuring the adventures of the 30 year old space man..." | [View Video](https://cdn.openai.com/sora/videos/mitten-astronaut.mp4) | [Full Analysis](./prompts/official-prompts.md#mitten-astronaut) |
-| **Papercraft Reef** | "A gorgeously rendered papercraft world of a coral reef..." | [View Video](https://cdn.openai.com/sora/videos/origami-undersea.mp4) | [Full Analysis](./prompts/official-prompts.md#papercraft-reef) |
-| **Dragon over Glacier** (Sora 2) | "Primary Target & Visuals: a dragon slicing past serrated ice spires..." | [View Video](https://openai.com/index/sora-2/) | [Full Analysis](./prompts/official-prompts.md#dragon-glacier) |
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Prompt Preview</th>
+<th align="center">Video</th>
+<th align="center">Analysis</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td><strong>🌃 Tokyo Walk</strong></td>
+<td>"A stylish woman walks down a Tokyo street filled with warm glowing neon..."</td>
+<td align="center">
+  <a href="https://cdn.openai.com/sora/videos/tokyo-walk.mp4">
+    <img src="https://img.shields.io/badge/▶️_Play-Video-red?style=for-the-badge" alt="Play Video"/>
+  </a>
+</td>
+<td align="center">
+  <a href="./prompts/official-prompts.md#tokyo-walk">📖 Details</a>
+</td>
+</tr>
+
+<tr>
+<td><strong>🦣 Wooly Mammoths</strong></td>
+<td>"Several giant wooly mammoths approach treading through a snowy meadow..."</td>
+<td align="center">
+  <a href="https://cdn.openai.com/sora/videos/wooly-mammoth.mp4">
+    <img src="https://img.shields.io/badge/▶️_Play-Video-red?style=for-the-badge" alt="Play Video"/>
+  </a>
+</td>
+<td align="center">
+  <a href="./prompts/official-prompts.md#wooly-mammoths">📖 Details</a>
+</td>
+</tr>
+
+<tr>
+<td><strong>🚀 Mitten Astronaut</strong></td>
+<td>"A movie trailer featuring the adventures of the 30 year old space man..."</td>
+<td align="center">
+  <a href="https://cdn.openai.com/sora/videos/mitten-astronaut.mp4">
+    <img src="https://img.shields.io/badge/▶️_Play-Video-red?style=for-the-badge" alt="Play Video"/>
+  </a>
+</td>
+<td align="center">
+  <a href="./prompts/official-prompts.md#mitten-astronaut">📖 Details</a>
+</td>
+</tr>
+
+<tr>
+<td><strong>🐠 Papercraft Reef</strong></td>
+<td>"A gorgeously rendered papercraft world of a coral reef..."</td>
+<td align="center">
+  <a href="https://cdn.openai.com/sora/videos/origami-undersea.mp4">
+    <img src="https://img.shields.io/badge/▶️_Play-Video-red?style=for-the-badge" alt="Play Video"/>
+  </a>
+</td>
+<td align="center">
+  <a href="./prompts/official-prompts.md#papercraft-reef">📖 Details</a>
+</td>
+</tr>
+
+<tr>
+<td><strong>🐉 Dragon over Glacier</strong><br/><sub>Sora 2</sub></td>
+<td>"Primary Target & Visuals: a dragon slicing past serrated ice spires..."</td>
+<td align="center">
+  <a href="https://openai.com/index/sora-2/">
+    <img src="https://img.shields.io/badge/▶️_Play-Video-red?style=for-the-badge" alt="Play Video"/>
+  </a>
+</td>
+<td align="center">
+  <a href="./prompts/official-prompts.md#dragon-glacier">📖 Details</a>
+</td>
+</tr>
+
+</tbody>
+</table>
 
 [→ See all official prompts](./prompts/official-prompts.md)
 
@@ -69,12 +140,58 @@ These represent the "gold standard" - official demonstrations of Sora's capabili
 
 #### Sora 2 Specific (September 2025)
 
-| Prompt | Description | Video Link |
-|--------|-------------|------------|
-| "a group of people playing volleyball" | Demonstrates enhanced physics in group activities | [View](https://x.com/mattshumer_/status/1973083840689156207) |
-| "create a luxury ad for a black Mercedes Class G" | High-production car commercial with smooth camera work | [View](https://x.com/LudovicCreator/status/1973236674659492236) |
-| "open Sora, type a prompt in, and generate video!" | Recursive "Soraception" showing the app interface | [View](https://x.com/elder_plinius/status/1973116259693949357) |
-| "Photorealistic werewolf transformation at campfire..." | Transformation scene with audio and cinematic effects | [View](https://x.com/JeffSynthesized/status/1973198469943927089) |
+<table>
+<thead>
+<tr>
+<th>Prompt</th>
+<th>Description</th>
+<th align="center">Video</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td><strong>"a group of people playing volleyball"</strong></td>
+<td>Demonstrates enhanced physics in group activities</td>
+<td align="center">
+  <a href="https://x.com/mattshumer_/status/1973083840689156207">
+    <img src="https://img.shields.io/badge/▶️_Watch-X/Twitter-1DA1F2?style=for-the-badge&logo=x" alt="Watch on X"/>
+  </a>
+</td>
+</tr>
+
+<tr>
+<td><strong>"create a luxury ad for a black Mercedes Class G"</strong></td>
+<td>High-production car commercial with smooth camera work</td>
+<td align="center">
+  <a href="https://x.com/LudovicCreator/status/1973236674659492236">
+    <img src="https://img.shields.io/badge/▶️_Watch-X/Twitter-1DA1F2?style=for-the-badge&logo=x" alt="Watch on X"/>
+  </a>
+</td>
+</tr>
+
+<tr>
+<td><strong>"open Sora, type a prompt in, and generate video!"</strong></td>
+<td>Recursive "Soraception" showing the app interface</td>
+<td align="center">
+  <a href="https://x.com/elder_plinius/status/1973116259693949357">
+    <img src="https://img.shields.io/badge/▶️_Watch-X/Twitter-1DA1F2?style=for-the-badge&logo=x" alt="Watch on X"/>
+  </a>
+</td>
+</tr>
+
+<tr>
+<td><strong>"Photorealistic werewolf transformation..."</strong></td>
+<td>Transformation scene with audio and cinematic effects</td>
+<td align="center">
+  <a href="https://x.com/JeffSynthesized/status/1973198469943927089">
+    <img src="https://img.shields.io/badge/▶️_Watch-X/Twitter-1DA1F2?style=for-the-badge&logo=x" alt="Watch on X"/>
+  </a>
+</td>
+</tr>
+
+</tbody>
+</table>
 
 [→ See all Sora 2 viral prompts](./prompts/sora2-viral-prompts.md)
 
@@ -146,5 +263,5 @@ If you find this repository useful, please consider giving it a star! It helps o
 
 ---
 
-**Maintained by the community** | **Last Updated**: October 2025 | [Report Issues](https://github.com/yourusername/awesome-sora2-prompt/issues)
+**Maintained by the community** | **Last Updated**: October 2025 | [Report Issues](https://github.com/zhangchenchen/awesome-sora2-prompt/issues)
 
