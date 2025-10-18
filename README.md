@@ -5,6 +5,10 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 💎 Sponsor
+
+> **[Sora2Api](https://www.sora2api.org/)** - Unified API for watermark-free Sora2 video generation. Fast, simple, and scalable text-to-video and image-to-video API with synchronized audio support.
+
 ## 📖 Table of Contents
 
 - [What is Sora?](#what-is-sora)
